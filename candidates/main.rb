@@ -6,7 +6,7 @@ require './candidates'
 require './filters'
 
 ## Your test code can go here
-pp qualified_candidates(@candidates)
+# pp qualified_candidates(@candidates)
 pp ordered_by_qualifications(@candidates)
 
 # binding.pry

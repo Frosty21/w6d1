@@ -3,6 +3,11 @@ Filter file
 ✔ Task 2: DEF experience(candidate) from that candidate return the years of experience @done (2017-03-13, 5:19:21 PM)
 ✔ Task 4: Qualified candidates - takes and collection of candidates and a subset of candidates that meet (are exp, +100 GitHub points, know Ruby || Python, applied in =<15 days and are age > 17 years (18+)) @done (2017-03-13, 5:31:26 PM)
 ✔ DEF check for all languages @done (2017-03-13, 5:31:31 PM)
-✔ DEF check for certain languages @done (2017-03-13, 5:31:33 PM)
-☐ Task 5: Sort on Exp and GitHub Points
+✔ DEF check for certain languages @done (2017-03-13, 11:58:39 PM)
+✔ Task 5: Sort on Exp and GitHub Points @done (2017-03-13, 11:58:40 PM)
+
+Used Rubocop with installing rubocop via gem
+gem install rubocop
+rubocop -a
+
 
