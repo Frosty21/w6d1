@@ -1,3 +1,6 @@
+# read this stackflow section to understand getters and setters
+# http://stackoverflow.com/questions/4370960/what-is-attr-accessor-in-ruby/32598087
+
 class Person  
   def initialize(name)
     @name = name
