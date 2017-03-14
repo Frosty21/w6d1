@@ -1,0 +1,8 @@
+Filter file
+✔ Task 3: DEF find(id) that searches for candidates @done (2017-03-13, 5:15:17 PM)
+✔ Task 2: DEF experience(candidate) from that candidate return the years of experience @done (2017-03-13, 5:19:21 PM)
+✔ Task 4: Qualified candidates - takes and collection of candidates and a subset of candidates that meet (are exp, +100 GitHub points, know Ruby || Python, applied in =<15 days and are age > 17 years (18+)) @done (2017-03-13, 5:31:26 PM)
+✔ DEF check for all languages @done (2017-03-13, 5:31:31 PM)
+✔ DEF check for certain languages @done (2017-03-13, 5:31:33 PM)
+☐ Task 5: Sort on Exp and GitHub Points
+
