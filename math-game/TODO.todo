@@ -1,10 +1,10 @@
 Tasks
-☐ Task 1: Extract Nouns for Classes
+✔ Task 1: Extract Nouns for Classes @done (2017-03-14, 2:52:47 AM)
 
 Read the description above again and extract / write down the Nouns that you feel could make for important Entities (manifested in the form of Classes) to help contain (encapsulate) logic within this app.
 
 You should have identified three but ideally four main classes/entities.
-☐ Task 2: Write their roles
+✔ Task 2: Write their roles @done (2017-03-14, 2:52:50 AM)
 
 What is the role for each class? Write out a brief paragraph describing the role that class will play in your app.
 
@@ -22,7 +22,7 @@ Furthermore:
 Which class will contain the game loop (where each instance of the loop is the other players turn)?
 Which class should manage who the current_player is?
 Which class(es) will contain user I/O and which will not have any?
-☐ Task 3: Peer and Mentor review
+✔ Task 3: Peer and Mentor review @done (2017-03-14, 2:52:56 AM)
 
 Review your approach with your peers and then with a mentor to make sure you are on the right track before starting to write your code.
 
